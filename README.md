@@ -1,5 +1,4 @@
-# Exploratory-Data-Analysis
-In Python
+# Diwali_Sales_Analysis_Python
 
-This is a data analysis project using python as a beginner 
+This is a beginner level data analysis project using Python.
 
